@@ -12,4 +12,3 @@
 *.sw?
 __pycache__
 env
-Pipfile.lock
